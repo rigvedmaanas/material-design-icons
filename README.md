@@ -1,2 +1,3 @@
-# material-design-icons
-This is a kind of fork of material-design-icons by google. This is done for the repo CustomTkinterBuilder
+# Material Design Icons
+
+This is a modified fork of [material-design-icons](https://github.com/google/material-design-icons). This is for the repo [CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder/tree/main).
